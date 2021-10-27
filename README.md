@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[WHAT DO THEY DO?](https://youtu.be/hcRxFRgNpns?t=3576) [It's fun to smile, feels good.](https://youtu.be/zqnT4thTEow?t=74) For the record I like to smile smiling is the BEST. 
+
+Research IT @ Hy-Line Intl. [link](https://www.hyline.com/)
