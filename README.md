@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ben-newell/ben-newell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[WHAT DO THEY DO?](https://youtu.be/hcRxFRgNpns?t=3576) [It's fun to smile, feels good.](https://youtu.be/rHmz2Gpv9lg?t=108) For the record I like to smile smiling is the BEST. 
+[WHAT DO THEY DO?](https://youtu.be/hcRxFRgNpns?t=3576) [It's fun to smile, feels good.](https://youtu.be/rHmz2Gpv9lg?t=108) For the record I like to smile smiling is the BEST.
